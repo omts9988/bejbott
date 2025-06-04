@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "Sub_to_bejtube",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "bej.aternos.me",
+    "port": 32130,
+    "version": "1.12.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 69,
+    "y": 69,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player ",
+        "My owner is qMee ",
+        "I want be alone ",
+        "Visit my Channel qMee"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
